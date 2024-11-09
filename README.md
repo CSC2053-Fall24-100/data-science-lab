@@ -2,7 +2,7 @@
 
 This lab will guide you through analyzing radio station data for Pennsylvania using Python and Pandas.
 
-## Setup Instructions# data-science-lab
+## Setup Instructions
 
 ## 1. Clone the repository on your computer
 
@@ -13,4 +13,8 @@ pip install jupyter
 jupyter notebook
 
 ## 4. Open up the notebook for this lab
+
+## 5. Receive credit for the lab
+At the completion of the exercises, upload your Jupyter notebook file to this repository and put in the commit message "Completed Lab 12"
+
    
